@@ -7,11 +7,9 @@
 
 ### DCF Architecture
 
-Python Implementation of ["Image Completion via Dual-path Cooperative Filtering"]
-
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="imgs/fig.1.png" width="60%" height="40%"/>
+	<img src="Img/1.png" width="60%" height="40%"/>
 </div>
 </a> </pre> </pre> <br />
 
