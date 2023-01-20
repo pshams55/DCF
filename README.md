@@ -2,7 +2,7 @@
 
 ## Image Completion via Dual-path Cooperative Filtering
 
-### (The codes and the pretrained weights will be uploaded soon.)
+##### (The codes and the pretrained weights will be uploaded soon.)
 
 
 
