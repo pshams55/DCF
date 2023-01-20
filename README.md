@@ -19,13 +19,13 @@
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="Img/2.png" width="75%" height="65%"/>
+	<img src="Img/2.png" width="73%" height="63%"/>
 </div>
 </a> <br /> <br />
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="Img/3.png" width="75%" height="65%"/>
+	<img src="Img/3.png" width="73%" height="63%"/>
 </div>
 </a> <br /> <br />
 
