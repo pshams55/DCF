@@ -19,7 +19,7 @@
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="Img/2.png" width="75%" height="65%"/>
+	<img src="Img/2-1.png" width="75%" height="65%"/>
 </div>
 </a> <br /> <br />
 
