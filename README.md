@@ -9,22 +9,10 @@
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="Img/1.png" width="60%" height="40%"/>
+	<img src="Img/1.png" width="50%" height="40%"/>
 </div>
 </a> </pre> </pre> <br />
 
-
-<a href="http://tensorlayer.readthedocs.io">
-<div align="center">
-	<img src="imgs/fig.2.png" width="70%" height="70%"/>
-</div>
-</a> </pre> </pre> <br />
-
-<a href="http://tensorlayer.readthedocs.io">
-<div align="center">
-	<img src="imgs/fig.3.png" width="80%" height="80%"/>
-</div>
-</a> </pre> </pre> <br />
 
 ### Results
 
