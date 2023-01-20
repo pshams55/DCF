@@ -1,8 +1,6 @@
 # DCF
 
-## Image Completion via Dual-path Cooperative Filtering
-
-##### (The codes and the pretrained weights will be uploaded soon.)
+## Image Completion via Dual-path Cooperative Filtering  ##### (The codes and the pretrained weights will be uploaded soon.)
 
 
 
