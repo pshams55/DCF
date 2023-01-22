@@ -33,5 +33,5 @@
 
 ### Prepare Data
 
-The dataset can be downloaded from this [kaggle link](https://www.kaggle.com/insaff/massachusetts-roads-dataset). Some of the images in training set does not have corresponding masks. The training code filters out those images. All the images are of size 800x800. Code for data analysis is in this notebook. 
+<!--- The dataset can be downloaded from this [kaggle link](https://www.kaggle.com/insaff/massachusetts-roads-dataset). Some of the images in training set does not have corresponding masks. The training code filters out those images. All the images are of size 800x800. Code for data analysis is in this notebook. -->
   
