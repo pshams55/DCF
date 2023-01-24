@@ -30,6 +30,9 @@
 </a> <br /> <br />
 
 
+### Installation
+
+We test this repo with Python 3.8, PyTorch 1.9.0, and CUDA 11.1. However, it should be runnable with recent PyTorch versions (Pytorch >= 1.1.0).
 
 ### Data
 
