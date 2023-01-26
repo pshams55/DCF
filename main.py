@@ -6,7 +6,7 @@ import torch
 import argparse
 from shutil import copyfile
 from src.config import Config
-from src.misf import DCF
+from src.dcf import DCF
 import torch.nn as nn
 
 
